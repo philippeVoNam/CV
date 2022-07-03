@@ -1,13 +1,16 @@
 Philippe Vo
 ============
 
-----
+> <philippe.vo.nam@gmail.com> • +1 438 992 4440
+> <https://github.com/philippeVoNam>
+
+MISSING DROPGENIE EXPERIENCE
 
 Education
 ---------
 
 2017-2021
-:   **Bsc, Computer Engineering**; Concordia University (Montreal, QC)
+:   **BSc, Computer Engineering**; Concordia University (Montreal, QC)
 
     *Member of the Institute for Co-operative Education*
 
@@ -108,7 +111,3 @@ Extra Section
 * Experience Abroad: Vietnam • United-States • Switzerland • Hong Kong • Thailand • Morocco • France
 * Sports: Ski • Tennis • Badminton (Multiple medals won throughout 2008 to 2012)
 * Passions: Robotics • Online Gaming • Piano (8 years)
-
-----
-
-> <philippe.vo.nam@gmail.com> • +1 438 992 4440
