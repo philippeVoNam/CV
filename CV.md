@@ -1,10 +1,44 @@
 Philippe Vo
+Computer Engineer
 ============
 
-> <philippe.vo.nam@gmail.com> • +1 438 992 4440
-> <https://github.com/philippeVoNam>
+> <philippe.vo.nam@gmail.com> • <+1 438 992 4440> • <https://github.com/philippeVoNam>
 
-MISSING DROPGENIE EXPERIENCE
+Experience
+----------
+
+**Head of Software : **
+
+*DropGenie (Boston, MA)*
+
+*September 2018-Present*
+
+* Worked at DropGenie, a biotech startup working at the intersection of biology and engineering to streamline gene editing pipelines.
+* I have built and maintained:
+    * a backend system to control a hardware system to enable fluidics movements based on electricity
+    * a frontend GUI application to enable users to interface with the hardware system (using APIs to talk to the backend system)
+    * a database system to store data regarding the execution of runs of the hardware systems for quality control
+    * a pipeline system that enables users to compile their code into a binary file that can be understood by the hardware system for fluidics movements
+    * firmware that runs on the hardware system to control the electrical hardware
+    * built numerous in-house applications to accelerate and facilitate my colleague's work
+* managed a team of data scientist to build a predictive model to label biological run as success/failure
+* Technical Skills used : backend programming, frontend GUI programming, database programming, embedded systems programming, multi-threading, computer vision
+* Skills acquired: research, teamwork, time management, communication, planning, managing, working with consultants.
+
+**Research Assistant : **
+
+*Concordia University (Montreal, QC)*
+
+*September 2016-2017*
+
+* Worked in a research laboratory specialized in Digital Microfluidics (liquid handling technology).
+* Built a feedback system for fluidics movement using computer vision
+* Created three software systems, a GUI (Graphical User Interface) to control a Digital Microfluidics automation system, an automatic absorbance reader (AIMS) and an image-based feedback system for Digital Microfluidics.
+* Published my research project on my image-based feedback system in the “Lab on a Chip” journal.
+* Link to my research [paper abstract](http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00826k#!divAbstract)
+* Collaborated with other lab members coming from other fields such as Biology, Electrical and Material Engineering.
+* Technical Skills used : GUI programming, embedded systems programming, computer vision.
+* Skills acquired: research, teamwork, time management, communication, planning.
 
 Education
 ---------
@@ -21,65 +55,59 @@ Education
 
     *65.25 credits*
 
-2015
-:   **DEC, Applied Sciences**; Champlain College (St-Lambert, QC)
+Skills
+---------
+* Languages :
+    * Python
+    * C++
+    * Java
+    * C#
+    * GDScript
+* CD/CI :
+    * Jenkins
+* Database :
+    * PostgreSQL
 
-Experience
+---
+
+Hackathons
 ----------
 
-**Research Assistant:**
+**ConUHacks 2019**
 
 *Concordia University (Montreal, QC)*
 
-*September 2016-2017*
+* Participate in the annual Concordia Hackathon
+    * Built an application that would use a machine learning based image analyzer to detect if a image sent is inappropriate or not.
+    * If an image was detected as inappropriate, it would be replaced with another image.
+    * This is to protect the viewer from receiving any unsolicited images.
 
-* Worked in a research laboratory specialized in Digital Microfluidics (liquid handling technology).
-* Created three software systems, a GUI (Graphical User Interface) to control a Digital Microfluidics automation system, an automatic absorbance reader (AIMS) and an image-based feedback system for Digital Microfluidics.
-* Collaborated with other lab members coming from other fields such as Biology, Electrical and Material Engineering.
-* Published my research project on my image-based feedback system in the “Lab on a Chip” journal.
-* Link to my research [paper abstract](http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00826k#!divAbstract)
-* Technical Skills used : GUI programming, embedded systems programming, computer vision.
-* Skills acquired: research, teamwork, time management, communication, planning.
+GameJams
+--------
 
-**BusBoy**
+**Game Off 2023**
 
-*Etoile DIX30 (Brossard, QC)*
+*hosted by Github, Lee Reilly*
 
-*September 2014 - October 2014*
-
-* Worked closely alongside a group of barmen to manage 4 small bars inside a comedy theatre capable of serving about 200 people.
-* The biggest task confined to me was the preparation of all the liquors and beers of the 4 bars given a short time lapse just before showtime.
-* Other tasks consisted of cleaning all the drink glasses, maintaining inventory of all the liquors and beers and assisting the barmen during peak time such as intermissions.
-* Skills acquired: teamwork, time management, communication, planning.
+* [https://itch.io/jam/game-off-2023/rate/2395600](my submission https://itch.io/jam/game-off-2023/rate/2395600)
+* Participate in the annual GameJam hosted by Github and Lee Reilly
+    * Theme given was about "scaling"
+    * Made a game that involved the player swinging to the top of the map
+    * Tried to make it rage inducing, similiar to 'Getting Over It with Bennett Foddy'
 
 ---
 
 Projects
 --------
 
-**Design of a Graphical user Interface for Digital Microfluidics** (Academic)
+**Music Player with Synced Lyrics (Pixel Singer)** (Personal)
 
-*Concordia University (Montreal, QC)*
+*Home (Montreal, QC)*
 
-* Objective : To build a Desktop application to allow easy manipulation of a Digital Microfluidics automation system using Matlab. (ie. moving droplets, reading sensors , …)
-    * Learned how to operate a micro controller (Arduino).
-    * Learned about programming Graphical User Interfaces and embedded systems.
-    * Presently being used in the Shih lab for their Digital Microfluidics automation systems.
-* Skills acquired : research, teamwork, problem analysis
-* Technical skills : basic electronics, micro controllers (Arduino), Matlab, GUI programming
-* [link](https://github.com/shihmicrolab) for more information
-
-**Design of an Image-based Feedback System for Digital Microfluidics** (Academic)
-
-*Concordia University (Montreal, QC)*
-
-* Objective : To use a camera to track and move droplets on a Digital Microfluidics chip.
-* Created an algorithm to track and move droplets by implementing computer vision.
-* Published a research paper regarding this project in the “Lab on a Chip” journal.
-* Chosen to go to the uTAS Conference to present this project and was nominated for best poster presenter.
-* Skills acquired : research, problem analysis, teamwork
-* Technical skills : Matlab, computer vision
-* [link](http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00826k#!divAbstract) to my research paper abstract
+* Objective : Make a music player that could print out the lyrics in sync with the song.
+* Technical skills : working with APIs
+* Skills acquired : problem analysis
+* [https://github.com/philippeVoNam/pixel-singer](https://github.com/philippeVoNam/pixel-singer)
 
 Awards and Disctinctions
 ------------------------
@@ -104,10 +132,3 @@ Awards and Disctinctions
 *Dec 2016, Concordia University*
 
 * A scholarship given to entering students at Concordia University which have been able to distinguish themselves academically. 
-
-Extra Section
--------------
-
-* Experience Abroad: Vietnam • United-States • Switzerland • Hong Kong • Thailand • Morocco • France
-* Sports: Ski • Tennis • Badminton (Multiple medals won throughout 2008 to 2012)
-* Passions: Robotics • Online Gaming • Piano (8 years)
