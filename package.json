@@ -1,8 +1,15 @@
 {
   "dependencies": {
+    "jsonresume-theme-basic": "^1.0.3",
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-even": "^0.22.0",
     "jsonresume-theme-flat": "^0.1.6",
+    "jsonresume-theme-github": "^0.0.5",
     "jsonresume-theme-minyma": "^0.0.4",
-    "jsonresume-theme-relaxed": "^0.1.8"
+    "jsonresume-theme-papirus": "^0.0.5",
+    "jsonresume-theme-relaxed": "^0.1.8",
+    "jsonresume-theme-stackoverflow": "^2.0.2",
+    "jsonresume-theme-straightforward": "^0.2.0"
   }
 }

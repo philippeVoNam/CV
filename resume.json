@@ -6,7 +6,7 @@
     "image": "",
     "email": "philippe.vo.nam@gmail.com",
     "phone": "(438) 992-4440",
-    "url": "https://github.com/philippeVoNam",
+    "url": "",
     "summary": "",
     "location": {
       "address": "8784 Rue Riviera",
@@ -56,21 +56,7 @@
         "Built a feedback system for fluidics movement using computer vision",
         "Created three software systems, a GUI (Graphical User Interface) to control a Digital Microfluidics automation system, an automatic absorbance reader (AIMS) and an image-based feedback system for Digital Microfluidics.",
         "Published my research project on my image-based feedback system in the “Lab on a Chip” journal.",
-        "Link to my research [paper abstract](http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00826k#!divAbstract)",
         "Collaborated with other lab members coming from other fields such as Biology, Electrical and Material Engineering."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
       ]
     }
   ],
@@ -83,10 +69,7 @@
       "startDate": "2017-09-01",
       "endDate": "2021-01-01",
       "score": "3.38",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "courses": []
     }
   ],
   "awards": [
@@ -163,46 +146,6 @@
     {
       "language": "Vietnamese",
       "fluency": "Upper Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
     }
   ],
   "meta": {
