@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsonresume-theme-even": "^0.22.0",
+    "jsonresume-theme-flat": "^0.1.6",
+    "jsonresume-theme-minyma": "^0.0.4",
+    "jsonresume-theme-relaxed": "^0.1.8"
+  }
+}

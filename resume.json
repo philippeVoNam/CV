@@ -1,0 +1,213 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Philippe Vo",
+    "label": "Computer Engineer",
+    "image": "",
+    "email": "philippe.vo.nam@gmail.com",
+    "phone": "(438) 992-4440",
+    "url": "https://github.com/philippeVoNam",
+    "summary": "",
+    "location": {
+      "address": "8784 Rue Riviera",
+      "postalCode": "J4X-1C4",
+      "city": "Brossard",
+      "countryCode": "CA",
+      "region": "Quebec"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "philippeVoNam",
+        "url": "https://github.com/philippeVoNam"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DropGenie",
+      "location": "Boston, MA",
+      "description": "Biotech startup working at the intersection of biology and engineering to streamline gene editing pipelines",
+      "position": "Head of Software",
+      "url": "https://www.drop-genie.com/",
+      "startDate": "2018-08-01",
+      "endDate": "",
+      "summary": "Biotech instruments company that built a system that can perform low volume, high throughput gene editing experiments at scale",
+      "highlights": [
+        "a backend system to control a hardware system to enable fluidics movements based on electricity",
+        "a frontend GUI application to enable users to interface with the hardware system (using APIs to talk to the backend system)",
+        "a database system to store data regarding the execution of runs of the hardware systems for quality control",
+        "a pipeline system that enables users to compile their code into a binary file that can be understood by the hardware system for fluidics movements",
+        "firmware that runs on the hardware system to control the electrical hardware",
+        "built numerous in-house applications to accelerate and facilitate my colleague's work",
+        "managed a team of data scientist to build a predictive model to label biological run as success/failure"
+      ]
+    },
+    {
+      "name": "Concordia University",
+      "location": "Montreal, QC",
+      "description": "Automating synthetic biology to advance energy and health",
+      "position": "Research Assistant",
+      "url": "https://www.shihmicrolab.ca/",
+      "startDate": "2016-09-01",
+      "endDate": "2017-09-01",
+      "summary": "Worked in a research laboratory specialized in Digital Microfluidics (liquid handling technology)",
+      "highlights": [
+        "Built a feedback system for fluidics movement using computer vision",
+        "Created three software systems, a GUI (Graphical User Interface) to control a Digital Microfluidics automation system, an automatic absorbance reader (AIMS) and an image-based feedback system for Digital Microfluidics.",
+        "Published my research project on my image-based feedback system in the “Lab on a Chip” journal.",
+        "Link to my research [paper abstract](http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00826k#!divAbstract)",
+        "Collaborated with other lab members coming from other fields such as Biology, Electrical and Material Engineering."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Concordia University",
+      "url": "https://www.concordia.ca/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "2021-01-01",
+      "score": "3.38",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employers' Choice Award",
+      "date": "2017-05-01",
+      "awarder": "Co-op Institute at Concordia University",
+      "summary": "Co-op awards committee reviewed all nominations from their employer contacts and I was the recipient for this award in 2017. Nominated by my employer Steve Shih from Concordia University"
+    },
+    {
+      "title": "USRA Scholarship",
+      "date": "2017-01-01",
+      "awarder": "Natural Sciences and Engineering Research Council of Canada",
+      "summary": "Undergraduate Student Research Award is given by the Natural Sciences and Engineering Research Council of Canada based on candidates academic record and research aptitudes"
+    },
+    {
+      "title": "Merit Scholarship Program in Information Sciences, Computer Engineering and Construction of Computers, and Electrical, Electronic and Communications Engineering",
+      "date": "2021-06-01",
+      "awarder": "Government of Quebec",
+      "summary": ""
+    },
+    {
+      "title": "Concordia Entrance Scholarship",
+      "date": "2016-12-01",
+      "awarder": "Concordia University",
+      "summary": "A scholarship given to entering students at Concordia University which have been able to distinguish themselves academically"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Image-based feedback and analysis system for digital microfluidics",
+      "publisher": "Lab on a Chip",
+      "releaseDate": "2017-10-01",
+      "url": "http://pubs.rsc.org/en/content/articlelanding/2017/lc/c7lc00826k#!divAbstract",
+      "summary": "Innovative computer vision-based feedback system to optimize fluid movement on digital microfluidic chips."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "C#",
+        "GDScript"
+      ]
+    },
+    {
+      "name": "CD/CI",
+      "level": "Intermediate",
+      "keywords": [
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": [
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": "Upper Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
